@@ -1,0 +1,867 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Naqvi Bukhari Sadat Lineage Archive Structured Dataset",
+    "description": "Structured genealogy archive derived from uploaded research publications and Urdu source text.",
+    "dateCreated": "2026-06-05T07:34:46+00:00",
+    "keywords": [
+      "Naqvi",
+      "Bukhari",
+      "Sadat",
+      "genealogy",
+      "Ahl al-Bayt",
+      "Uch Sharif",
+      "Firozabad",
+      "Hyderabad"
+    ],
+    "hasPart": [
+      {
+        "@type": "Person",
+        "name": "Imam Hussain",
+        "alternateName": "Imam Hussain",
+        "identifier": "ENT_D0F5F6FFD4"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Ali",
+        "alternateName": "Imam Ali",
+        "identifier": "ENT_AAAF97554C"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Jafar Sadiq",
+        "alternateName": "Imam Jafar Sadiq",
+        "identifier": "ENT_62587BEF0D"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Abu Talib",
+        "alternateName": "Hazrat Abu Talib",
+        "identifier": "ENT_5FACBC2357"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Ali Raza",
+        "alternateName": "Imam Ali Raza",
+        "identifier": "ENT_D67B0C59D6"
+      },
+      {
+        "@type": "Person",
+        "name": "Abdul Muttalib",
+        "alternateName": "Abdul Muttalib",
+        "identifier": "ENT_4381A868B7"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Musa Kazim",
+        "alternateName": "Imam Musa Kazim",
+        "identifier": "ENT_50243DF89C"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Muhammad Baqir",
+        "alternateName": "Imam Muhammad Baqir",
+        "identifier": "ENT_6737897D35"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Muhammad Taqi",
+        "alternateName": "Imam Muhammad Taqi",
+        "identifier": "ENT_9F603D7A70"
+      },
+      {
+        "@type": "Person",
+        "name": "Prophet Muhammad",
+        "alternateName": "Prophet Muhammad",
+        "identifier": "ENT_3492169A0C"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Ali Naqi AS",
+        "alternateName": "Imam Ali Naqi AS",
+        "identifier": "ENT_802CAAE044"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Abdullah",
+        "alternateName": "Hazrat Abdullah",
+        "identifier": "ENT_F2D3F09150"
+      },
+      {
+        "@type": "Person",
+        "name": "Sayyid Mahmud",
+        "alternateName": "Sayyid Mahmud",
+        "identifier": "ENT_62203E42CE"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Syed Muhammad",
+        "alternateName": "Hazrat Syed Muhammad",
+        "identifier": "ENT_5880BB84DA"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Syed Ameer Ali Shah",
+        "alternateName": "Hazrat Syed Ameer Ali Shah",
+        "identifier": "ENT_E507D4C91F"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jafar Sani",
+        "alternateName": "Syed Jafar Sani",
+        "identifier": "ENT_D09CF34D44"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Yar Shah Haider",
+        "alternateName": "Syed Yar Shah Haider",
+        "identifier": "ENT_55369DBCA1"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Syed Jalaluddin Surkh Posh Bukhari",
+        "alternateName": "Hazrat Syed Jalaluddin Surkh Posh Bukhari",
+        "identifier": "ENT_6AA1AAC2B4"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Zain ul Abideen",
+        "alternateName": "Imam Zain ul Abideen",
+        "identifier": "ENT_174A3B739A"
+      },
+      {
+        "@type": "Person",
+        "name": "Sayyid Qutb Kamal",
+        "alternateName": "Sayyid Qutb Kamal",
+        "identifier": "ENT_DBE2D50B45"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Sultan-ul-Aarifeen, Qutb-ul-Kamal, Wali-e-Kamil, Waris-e-Masoomeen a.s, Sher-e-Shah Makhdoom Syed Jalaluddin Haider Surkh-Posh Bukhari",
+        "alternateName": "Hazrat Sultan-ul-Aarifeen, Qutb-ul-Kamal, Wali-e-Kamil, Waris-e-Masoomeen a.s, Sher-e-Shah Makhdoom Syed Jalaluddin Haider Surkh-Posh Bukhari",
+        "identifier": "ENT_9428DC12B3"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Hasan",
+        "alternateName": "Imam Hasan",
+        "identifier": "ENT_383509B319"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Kabir Shah",
+        "alternateName": "Syed Kabir Shah",
+        "identifier": "ENT_0BBC5D8FB1"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jalaluddin Hussain Jahaniyan Jahan Gasht Naqvi Albukhari",
+        "alternateName": "Syed Jalaluddin Hussain Jahaniyan Jahan Gasht Naqvi Albukhari",
+        "identifier": "ENT_EAAB14D817"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Aleem ud Din",
+        "alternateName": "Syed Aleem ud Din",
+        "identifier": "ENT_444122D5FB"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ali al-Muayyad",
+        "alternateName": "Syed Ali al-Muayyad",
+        "identifier": "ENT_58638DA14D"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jalal ud Din",
+        "alternateName": "Syed Jalal ud Din",
+        "identifier": "ENT_C45DDF5A04"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jalal ud Din Haider",
+        "alternateName": "Syed Jalal ud Din Haider",
+        "identifier": "ENT_F84CE08476"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jalal ud Din Hussain (Makhdoom Jahanian Jahan Gasht)",
+        "alternateName": "Syed Jalal ud Din Hussain (Makhdoom Jahanian Jahan Gasht)",
+        "identifier": "ENT_7CF5F82F66"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jalal ud Din Surkh Posh Bukhari",
+        "alternateName": "Syed Jalal ud Din Surkh Posh Bukhari",
+        "identifier": "ENT_F4F0A7C060"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Mahmood Nar Nasir ud Din",
+        "alternateName": "Syed Mahmood Nar Nasir ud Din",
+        "identifier": "ENT_805277F46A"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Nizam ud Din",
+        "alternateName": "Syed Nizam ud Din",
+        "identifier": "ENT_6A49933660"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Safi ud Din",
+        "alternateName": "Syed Safi ud Din",
+        "identifier": "ENT_6A94F5D42B"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Shams ud Din Shah",
+        "alternateName": "Syed Shams ud Din Shah",
+        "identifier": "ENT_E833429C8C"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Sharaf ud Din Shah",
+        "alternateName": "Syed Sharaf ud Din Shah",
+        "identifier": "ENT_A3797F23D8"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Haider Shah",
+        "alternateName": "Syed Haider Shah",
+        "identifier": "ENT_69D2568D6F"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Shah Nizam",
+        "alternateName": "Syed Shah Nizam",
+        "identifier": "ENT_FE1182DCC5"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jahangir Shah",
+        "alternateName": "Syed Jahangir Shah",
+        "identifier": "ENT_F900F392FC"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Qutb Shah",
+        "alternateName": "Syed Qutb Shah",
+        "identifier": "ENT_26093C15EC"
+      },
+      {
+        "@type": "Person",
+        "name": "Sayyid Mohabbat Ali",
+        "alternateName": "Sayyid Mohabbat Ali",
+        "identifier": "ENT_12BBDDD5BD"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ali Asghar",
+        "alternateName": "Syed Ali Asghar",
+        "identifier": "ENT_F666017C7B"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jafar",
+        "alternateName": "Syed Jafar",
+        "identifier": "ENT_2C3E0A731E"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Muhammad Bukhari",
+        "alternateName": "Syed Muhammad Bukhari",
+        "identifier": "ENT_188E233184"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Qamar Ali",
+        "alternateName": "Syed Qamar Ali",
+        "identifier": "ENT_6EF9A5B137"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Abbas",
+        "alternateName": "Hazrat Abbas",
+        "identifier": "ENT_592A598416"
+      },
+      {
+        "@type": "Person",
+        "name": "Makhdum Jahaniyan",
+        "alternateName": "Makhdum Jahaniyan",
+        "identifier": "ENT_8FAA8FA7BD"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Syed Jalaluddin Surkh Posh Bukhari R",
+        "alternateName": "Hazrat Syed Jalaluddin Surkh Posh Bukhari R",
+        "identifier": "ENT_F74B6EC2D7"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ahmed Kabir bin Syed Jalaluddin Surkh Posh Bukhari",
+        "alternateName": "Syed Ahmed Kabir bin Syed Jalaluddin Surkh Posh Bukhari",
+        "identifier": "ENT_55ABEC96B3"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jalaluddin Haider Surkh-Posh Bukhari Naqvi R",
+        "alternateName": "Syed Jalaluddin Haider Surkh-Posh Bukhari Naqvi R",
+        "identifier": "ENT_3E6011D9B2"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Naseer Ali",
+        "alternateName": "Syed Naseer Ali",
+        "identifier": "ENT_81A10FFC31"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Syed Jalaluddin Haider Lahori",
+        "alternateName": "Hazrat Syed Jalaluddin Haider Lahori",
+        "identifier": "ENT_2DE776DCFF"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Abul Hasan Ali Asghar",
+        "alternateName": "Syed Abul Hasan Ali Asghar",
+        "identifier": "ENT_6151F84957"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ahmed Shah",
+        "alternateName": "Syed Ahmed Shah",
+        "identifier": "ENT_13BE37EC7A"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ilm ud Din",
+        "alternateName": "Syed Ilm ud Din",
+        "identifier": "ENT_537D23CBF7"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ilm ud Din Bukhari",
+        "alternateName": "Syed Ilm ud Din Bukhari",
+        "identifier": "ENT_2C7ED1C15C"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Sultan Ahmed Kabir",
+        "alternateName": "Syed Sultan Ahmed Kabir",
+        "identifier": "ENT_698277D940"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Zain ul Abideen",
+        "alternateName": "Syed Zain ul Abideen",
+        "identifier": "ENT_3CE999689F"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ejaz Ali",
+        "alternateName": "Syed Ejaz Ali",
+        "identifier": "ENT_808A730D9B"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Mehmood Asghar Bukhari",
+        "alternateName": "Syed Mehmood Asghar Bukhari",
+        "identifier": "ENT_DEBCD67347"
+      },
+      {
+        "@type": "Person",
+        "name": "Abdul Muttalib (Shaybah)",
+        "alternateName": "Abdul Muttalib (Shaybah)",
+        "identifier": "ENT_F683C96F4B"
+      },
+      {
+        "@type": "Person",
+        "name": "Prophet Muhammad bin Hazrat Abdullah",
+        "alternateName": "Prophet Muhammad bin Hazrat Abdullah",
+        "identifier": "ENT_543D924833"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Shabab Ali",
+        "alternateName": "Syed Shabab Ali",
+        "identifier": "ENT_996374B863"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Hamza",
+        "alternateName": "Syed Hamza",
+        "identifier": "ENT_B6737FC736"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ismail",
+        "alternateName": "Syed Ismail",
+        "identifier": "ENT_E327C9FB8E"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Syed Safiuddin Shah Bukhari",
+        "alternateName": "Hazrat Syed Safiuddin Shah Bukhari",
+        "identifier": "ENT_B168DE36E4"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Nasiruddin Mahmood Bukhari",
+        "alternateName": "Syed Nasiruddin Mahmood Bukhari",
+        "identifier": "ENT_FBA54F1DCE"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Ali al-Naqi al-Hadi",
+        "alternateName": "Imam Ali al-Naqi al-Hadi",
+        "identifier": "ENT_F550C93AC1"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jalaluddin Hussain Jahaniyan",
+        "alternateName": "Syed Jalaluddin Hussain Jahaniyan",
+        "identifier": "ENT_46B328B8D3"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Sharafuddin",
+        "alternateName": "Syed Sharafuddin",
+        "identifier": "ENT_9D4E67458F"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Asim Ali",
+        "alternateName": "Syed Asim Ali",
+        "identifier": "ENT_451AE49110"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jafar Abu Turab",
+        "alternateName": "Syed Jafar Abu Turab",
+        "identifier": "ENT_7CC7E033F4"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jawed Ali",
+        "alternateName": "Syed Jawed Ali",
+        "identifier": "ENT_04111380C4"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Mohsin Ali",
+        "alternateName": "Syed Mohsin Ali",
+        "identifier": "ENT_AEC74E0D7F"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Muhammad Abul Fatah",
+        "alternateName": "Syed Muhammad Abul Fatah",
+        "identifier": "ENT_02B60B6826"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Qaiser Ali",
+        "alternateName": "Syed Qaiser Ali",
+        "identifier": "ENT_2898BA37B2"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Sharfuddin Shah",
+        "alternateName": "Syed Sharfuddin Shah",
+        "identifier": "ENT_C2E13C589F"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Zainulabdeen",
+        "alternateName": "Syed Zainulabdeen",
+        "identifier": "ENT_CAE235E9FD"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Shakir Ali",
+        "alternateName": "Syed Shakir Ali",
+        "identifier": "ENT_351A3245D1"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Faisal Ali",
+        "alternateName": "Syed Faisal Ali",
+        "identifier": "ENT_A22F6DE213"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ishaq",
+        "alternateName": "Syed Ishaq",
+        "identifier": "ENT_D68ADED6E6"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Umar",
+        "alternateName": "Syed Umar",
+        "identifier": "ENT_885C14C883"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ashiq Ali",
+        "alternateName": "Syed Ashiq Ali",
+        "identifier": "ENT_915B13726B"
+      },
+      {
+        "@type": "Person",
+        "name": "Malik",
+        "alternateName": "Malik",
+        "identifier": "ENT_0344526560"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Abu Muhammad Hasan Naqvi",
+        "alternateName": "Syed Abu Muhammad Hasan Naqvi",
+        "identifier": "ENT_86A65ED6A0"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ali Almoeed",
+        "alternateName": "Syed Ali Almoeed",
+        "identifier": "ENT_DEE793BFB9"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Qasim",
+        "alternateName": "Syed Qasim",
+        "identifier": "ENT_CCBCF39AF4"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Uthman",
+        "alternateName": "Syed Uthman",
+        "identifier": "ENT_0F4E0BBB6C"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Yahya",
+        "alternateName": "Syed Yahya",
+        "identifier": "ENT_FD9A51AAC5"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Syed Jalaluddin Haider Surkh Posh Bukhari",
+        "alternateName": "Hazrat Syed Jalaluddin Haider Surkh Posh Bukhari",
+        "identifier": "ENT_130352E455"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Hafeez Ali",
+        "alternateName": "Syed Hafeez Ali",
+        "identifier": "ENT_E5C93C1FB2"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jalaluddin Bukhari",
+        "alternateName": "Syed Jalaluddin Bukhari",
+        "identifier": "ENT_2656F1CEE9"
+      },
+      {
+        "@type": "Person",
+        "name": "Hazrat Syed Jalaluddin Hussain",
+        "alternateName": "Hazrat Syed Jalaluddin Hussain",
+        "identifier": "ENT_0FAF0B2980"
+      },
+      {
+        "@type": "Person",
+        "name": "Sayyid Shakir Ali Shah",
+        "alternateName": "Sayyid Shakir Ali Shah",
+        "identifier": "ENT_E4379E798F"
+      },
+      {
+        "@type": "Person",
+        "name": "Ghalib",
+        "alternateName": "Ghalib",
+        "identifier": "ENT_769EFC58B1"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Sultan",
+        "alternateName": "Syed Sultan",
+        "identifier": "ENT_1ECF0D3B91"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Ali al",
+        "alternateName": "Imam Ali al",
+        "identifier": "ENT_D294B98B8F"
+      },
+      {
+        "@type": "Person",
+        "name": "Imam Zayd",
+        "alternateName": "Imam Zayd",
+        "identifier": "ENT_7BB718E9D6"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Abdul Qadir",
+        "alternateName": "Syed Abdul Qadir",
+        "identifier": "ENT_7162497BD3"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Abdullah Qatal Bukhari Dehelvi",
+        "alternateName": "Syed Abdullah Qatal Bukhari Dehelvi",
+        "identifier": "ENT_CD1FA7F6CF"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Abu Abdullah Muhammad Naqvi",
+        "alternateName": "Syed Abu Abdullah Muhammad Naqvi",
+        "identifier": "ENT_4260CAB63B"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Abu Alkher Sharfuddin Naqvi Bukhari",
+        "alternateName": "Syed Abu Alkher Sharfuddin Naqvi Bukhari",
+        "identifier": "ENT_FA0DC14B66"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Abu Jafar Muhammad Nazuk Alashqar Naqvi",
+        "alternateName": "Syed Abu Jafar Muhammad Nazuk Alashqar Naqvi",
+        "identifier": "ENT_E5ECC948D7"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Abul Alhasan Naqvi",
+        "alternateName": "Syed Abul Alhasan Naqvi",
+        "identifier": "ENT_05350D9FF6"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ali Akbar",
+        "alternateName": "Syed Ali Akbar",
+        "identifier": "ENT_4D4D22563C"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ali Al-Moeed",
+        "alternateName": "Syed Ali Al-Moeed",
+        "identifier": "ENT_92649F7C4E"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ali Mukhtar",
+        "alternateName": "Syed Ali Mukhtar",
+        "identifier": "ENT_AE5EF642A4"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ali Sarmast Naqvi Bukhari",
+        "alternateName": "Syed Ali Sarmast Naqvi Bukhari",
+        "identifier": "ENT_94C43BD707"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Badrudin Shah",
+        "alternateName": "Syed Badrudin Shah",
+        "identifier": "ENT_1E3208BACD"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Bahadur",
+        "alternateName": "Syed Bahadur",
+        "identifier": "ENT_9EC5DE3BFA"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Bahauddin Masoom",
+        "alternateName": "Syed Bahauddin Masoom",
+        "identifier": "ENT_5CDBEA2140"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Haji Syed Abdul Aziz Naqvi",
+        "alternateName": "Syed Haji Syed Abdul Aziz Naqvi",
+        "identifier": "ENT_6537A8F292"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Hamid Kabeer Shamsuldin Naqvi Bukhari",
+        "alternateName": "Syed Hamid Kabeer Shamsuldin Naqvi Bukhari",
+        "identifier": "ENT_CB7DEC773C"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Ilmudin Shah",
+        "alternateName": "Syed Ilmudin Shah",
+        "identifier": "ENT_8DD758E169"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Jamaluddin Naqvi Bukhari",
+        "alternateName": "Syed Jamaluddin Naqvi Bukhari",
+        "identifier": "ENT_37251D7922"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Kamaludin Abu Muhamad Bukhari",
+        "alternateName": "Syed Kamaludin Abu Muhamad Bukhari",
+        "identifier": "ENT_A89226B49C"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Mali Shah",
+        "alternateName": "Syed Mali Shah",
+        "identifier": "ENT_5E647D0E7A"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Miran Muhammad Shah Naqvi",
+        "alternateName": "Syed Miran Muhammad Shah Naqvi",
+        "identifier": "ENT_A9B2F85B1D"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Mohsin",
+        "alternateName": "Syed Mohsin",
+        "identifier": "ENT_510671EABA"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Muazzuddin",
+        "alternateName": "Syed Muazzuddin",
+        "identifier": "ENT_050060A262"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Muhammad Abu Al-Fatah",
+        "alternateName": "Syed Muhammad Abu Al-Fatah",
+        "identifier": "ENT_44AD1E57FF"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Muhammad Akbar",
+        "alternateName": "Syed Muhammad Akbar",
+        "identifier": "ENT_A9DA052508"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Muhammad Rukunuldin Bukhari",
+        "alternateName": "Syed Muhammad Rukunuldin Bukhari",
+        "identifier": "ENT_7B7E2B3E5F"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Munawwar Naqvi",
+        "alternateName": "Syed Munawwar Naqvi",
+        "identifier": "ENT_3F4ABE54A2"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Nabi Shah",
+        "alternateName": "Syed Nabi Shah",
+        "identifier": "ENT_59A0D8B30D"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Niyaz Ali",
+        "alternateName": "Syed Niyaz Ali",
+        "identifier": "ENT_2C1B3FA4A9"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Qamarudin Shah",
+        "alternateName": "Syed Qamarudin Shah",
+        "identifier": "ENT_44F3E472D1"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Qutbudin Shah",
+        "alternateName": "Syed Qutbudin Shah",
+        "identifier": "ENT_8795F0E406"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Raju",
+        "alternateName": "Syed Raju",
+        "identifier": "ENT_55FD64D3D4"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Rehmat Shah",
+        "alternateName": "Syed Rehmat Shah",
+        "identifier": "ENT_960871D54B"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Sadruddin Rajan Qatal Naqvi Bukhari",
+        "alternateName": "Syed Sadruddin Rajan Qatal Naqvi Bukhari",
+        "identifier": "ENT_709665FCB9"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Sadrudin Muhammad Ghaus",
+        "alternateName": "Syed Sadrudin Muhammad Ghaus",
+        "identifier": "ENT_D57722EF80"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Sadrudin Shah",
+        "alternateName": "Syed Sadrudin Shah",
+        "identifier": "ENT_2B71E2ECE8"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Sardar Ali Shah",
+        "alternateName": "Syed Sardar Ali Shah",
+        "identifier": "ENT_1ECB1DAF93"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Shah Abu Alkher Bukhari",
+        "alternateName": "Syed Shah Abu Alkher Bukhari",
+        "identifier": "ENT_FDEA61EF1A"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Shahabudin Naqvi Bukhari",
+        "alternateName": "Syed Shahabudin Naqvi Bukhari",
+        "identifier": "ENT_0300C9C52B"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Shuja Naqvi Bukhari",
+        "alternateName": "Syed Shuja Naqvi Bukhari",
+        "identifier": "ENT_0B2F28D775"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Umar Mahdi",
+        "alternateName": "Syed Umar Mahdi",
+        "identifier": "ENT_93A6B0DAB1"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Wazeer Ali Shah",
+        "alternateName": "Syed Wazeer Ali Shah",
+        "identifier": "ENT_86531BE776"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Yusuf",
+        "alternateName": "Syed Yusuf",
+        "identifier": "ENT_37E24F16CE"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Zakir Ali",
+        "alternateName": "Syed Zakir Ali",
+        "identifier": "ENT_475053DCD5"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed Zamin Ali Shah",
+        "alternateName": "Syed Zamin Ali Shah",
+        "identifier": "ENT_2CC834564C"
+      }
+    ]
+  }
+]
